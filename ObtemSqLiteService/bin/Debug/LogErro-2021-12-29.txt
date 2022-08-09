@@ -1,0 +1,3 @@
+Não foi possível localizar uma parte do caminho 'C:\SqLite\'.
+Não foi possível localizar uma parte do caminho 'C:\SqLite\'.
+O arquivo 'c:\SqLite\NOSSADRGLOJAS.db' já existe.

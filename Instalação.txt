@@ -1,0 +1,16 @@
+Criar o diretório no servidor:
+
+C:\IntegradorNCRService
+
+Executar no cmd este comando:
+
+C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe C:\Fontes\C#\ObtemSqLiteService\ObtemSqLiteService\bin\Debug\ObtemSqLiteService.exe
+
+Após o comando será informado o usuário da rede "and\usuario" e "senha"
+
+Desinstalação
+
+C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /u C:\Fontes\C#\ObtemSqLiteService\ObtemSqLiteService\bin\Debug\ObtemSqLiteService.exe
+
+Usuario: bigadm
+Senha: Dqm@10@nd
